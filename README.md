@@ -1,4 +1,4 @@
-# 💬 Gemini AI Chat UI
+# 💬 GeminiBot- Gemini AI chat UI
 
 A lightweight, responsive chat interface powered by the **Gemini AI API**. Built with HTML, CSS, and JavaScript.
 
